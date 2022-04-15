@@ -1,4 +1,6 @@
 # projet_tas_de_sable
+import tk as tinker
+
 #######################################################
 # Groupe  BITD04
 # Léa GALLOIS
